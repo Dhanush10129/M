@@ -46,3 +46,10 @@ https://s18.gotofiles.online/download.php?hash=8c1d69838596a893c0c51b9ffe97c757&
 
 #EXTINF:-1 tvg-name="Por (2024)" tvg-logo="https://i.imgur.com/rd2DRy9.jpeg" group-title="2024", Por
 https://bit.ly/3Tlnilr
+
+#EXTM3U
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:71,Thirumangalyam
+#EXT-X-TVG-LOGO:https://i.imgur.com/wn5azJf.jpeg
+#EXTGRP:Tamil
+https://dl.dropboxusercontent.com/scl/fi/b0ge47qwrlala9qsgfrfy/Thirumangalyam.mp4?rlkey=k2ga7qd9o4n9yoht18te4wivt&st=h3fjre86&dl=0

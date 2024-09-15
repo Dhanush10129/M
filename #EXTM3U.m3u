@@ -55,3 +55,7 @@ https://youtu.be/FPis2CPBoQE?si=EkKz7Od5GChZ_gwO
 
 #EXTINF:-1 tvg-name="Blue(2024)" tvg-logo="https://i.ibb.co/87snxB/Blue-Star.jpg" group-title="2024", Blue
 https://m.youtube.com/watch?v=FPis2CPBoQE
+
+#EXTM3U
+#EXTINF:-1, YouTube Direct Stream (Test)
+https://rr2---sn-npoeenly.googlevideo.com/videoplayback?expire=1726436565&ei=dQDnZp7gCMrZ1sQPiZgE&ip=2800%3Aa4%3A95f%3A2e00%3A5576%3Acb00%3A9b08%3A416&id=o-AEHgl6zRBzuOc0P8XqMTUqHnQnkHR1JlyAYeVOxpqfnB&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&bui=AXLXGFRnTscBIVUAEkpZ4yrrCIDzdFK3y7__JkDkRp6nU9D11wDBnRWWVg4gvMoEvFL8wBi3H6FzUfo0&spc=54MbxfPBpalYcnYcYGXSHxedhMMXUXbIQh6JCJwqZSK7BiUfgGoI&vprv=1&svpuc=1&mime=video%2Fmp4&ns=9pRKWaEZAt0WVXzNrsNxut0Q&rqh=1&gir=yes&clen=210446215&dur=742.374&lmt=1726324286435542&keepalive=yes&c=WEB_CREATOR&sefc=1&txp=3309224&n=wrLh0TeypsmgOg&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAIP-KgX9ZmRegpvXygic1U5piS8wzNvZPs9mAnIy32S5AiEAk_ANevrJ2TFO6bmp95Qvc-KzhBSmKtMkGdLNR5Dt4AI%3D&rm=sn-5ouxa-h8qee7l&rrc=79,80&fexp=24350518,24350557,24350561&req_id=a43c026ace8da3ee&cmsv=e&redirect_counter=2&cm2rm=sn-x1xse7z&cms_redirect=yes&mh=_7&mip=103.155.213.158&mm=34&mn=sn-npoeenly&ms=ltu&mt=1726413668&mv=m&mvi=2&pl=24&lsparams=mh,mip,mm,mn,ms,mv,mvi,pl&lsig=ABPmVW0wRQIhAObQb8ckm851Iame79Fps0mLJ74_nzNg2bVjB2BSi4W1AiATGnuw-8uD1SibegoCP8GXksf6hEsWIHJW3mOeE2xInA%3D%3D
